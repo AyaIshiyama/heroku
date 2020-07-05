@@ -1,0 +1,5 @@
+domain: wiredbeans
+apps:
+  OrderManagementApp:
+    id: 28
+    token: YQCA5YZBmGyZeZ8QD9dz0Vn8GhHaXC9qNBbrPkFL
