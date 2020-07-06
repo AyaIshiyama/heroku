@@ -58,6 +58,7 @@ class Kintone(model.kintoneModel):
                 text = texta.format(dt)   
                 fileobj.write(text)
 
+print('AAAAAAAaa')
 pr = Kintone()
 # 引数取得
 arg = sys.argv
