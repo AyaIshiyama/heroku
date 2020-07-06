@@ -1,1 +1,1 @@
-ptint('testtest')
+print('testtest')
